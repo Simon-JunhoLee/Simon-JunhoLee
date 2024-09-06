@@ -31,15 +31,15 @@ I'm seeking help with [Specific Areas You Need Help With, e.g., debugging, advan
 ### ⚡ Fun Fact
 Did you know that [Interesting Fact About You or Technology You Use]?
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width=56% />
-</a>
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    </a>    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width=56% />
+    </a>
+</div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=compact)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
