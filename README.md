@@ -32,4 +32,4 @@ I'm seeking help with [Specific Areas You Need Help With, e.g., debugging, advan
 ### ⚡ Fun Fact
 Did you know that [Interesting Fact About You or Technology You Use]?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=radical)
