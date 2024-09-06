@@ -32,11 +32,11 @@ I'm seeking help with [Specific Areas You Need Help With, e.g., debugging, advan
 Did you know that [Interesting Fact About You or Technology You Use]?
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
     </a>    
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width=56% />
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%" />
     </a>
 </div>
 
