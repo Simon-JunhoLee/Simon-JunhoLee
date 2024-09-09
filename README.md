@@ -49,8 +49,6 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) &nbsp;
 <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" /> &nbsp;&nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%" />
-    </a>
+        <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%" />
 </div>
 
