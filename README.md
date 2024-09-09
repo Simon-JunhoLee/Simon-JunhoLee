@@ -4,12 +4,12 @@
 ## Welcome to Junho's GitHub 👋
 
 ### 🎓 Education
-- **학사:** 을지대학교 의료IT마케팅 전공
-- **교육:** AWS 클라우드와 Elasticsearch를 활용한 Java(자바) Full-Stack 개발자 양성과정 <br/> >```빅데이터 분석 서비스 구현을 위한 JAVA/Python 풀스택 전문가 양성 과정```
+- **학사 :** 을지대학교 의료IT마케팅 전공
+- **교육 :** AWS 클라우드와 Elasticsearch를 활용한 Java(자바) Full-Stack 개발자 양성과정 <br/>&nbsp&nbsp&nbsp&nbsp 빅데이터 분석 서비스 구현을 위한 JAVA/Python 풀스택 전문가 양성 과정
 
 ### 🔭 Current Projects
-- **Project 1:** Flow Brick - PMS(Project Management System)
-- **Project 2:** Sinhyang - ERP(Enterprise Resource Planning)
+- **Project 1 :** Flow Brick - PMS(Project Management System)
+- **Project 2 :** Sinhyang - ERP(Enterprise Resource Planning)
 
 ### 📫 Reach Me
 - Email: leejunho0722@naver.com
