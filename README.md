@@ -5,7 +5,7 @@
 
 ### 🎓 Education
 - **학사:** 을지대학교 의료IT마케팅 전공
-- **교육:** AWS 클라우드와 Elasticsearch를 활용한 Java(자바) Full-Stack 개발자 양성과정
+- **교육:** AWS 클라우드와 Elasticsearch를 활용한 Java(자바) Full-Stack 개발자 양성과정 <br/>
 빅데이터 분석 서비스 구현을 위한 JAVA/Python 풀스택 전문가 양성 과정
 
 ### 🔭 Current Projects
@@ -21,6 +21,7 @@
 ### ✨ Skill
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
