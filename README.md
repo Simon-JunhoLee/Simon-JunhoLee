@@ -3,7 +3,7 @@
 
 ## Welcome to Junho's GitHub 👋
 
-### <a target="_blank" href="https://icons8.com/icon/aJPLw-4jUCR3/man-technologist">인간 기술</a> 작가: <a target="_blank" href="https://icons8.com">Icons8</a> About Me
+### 👨‍💻 About Me
 - **Name :** 이준호(Junho Lee)
 - **Email :** leejunho0722@naver.com
 - **GitHub :** https://github.com/Simon-JunhoLee 
