@@ -48,7 +48,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) &nbsp;
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) &nbsp;
 <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" style="margin-right: 100px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" style="margin-right: 10;"/>
         <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%" />
 </div>
 
