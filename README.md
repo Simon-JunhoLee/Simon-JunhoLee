@@ -3,47 +3,24 @@
 
 ## Welcome to Junho's GitHub 👋
 
+### 🎓 Education
+- **학사:** 을지대학교 의료IT마케팅 전공
+- **교육:** AWS 클라우드와 Elasticsearch를 활용한 Java(자바) Full-Stack 개발자 양성과정
+            빅데이터 분석 서비스 구현을 위한 JAVA/Python 풀스택 전문가 양성 과정
+
 ### 🔭 Current Projects
-- **Project 1:** [Brief description or link]
-- **Project 2:** [Brief description or link]
-
-### 🌱 Learning
-I'm currently learning [Your Current Learning Focus, e.g., React, Python, etc.] and working on improving my skills in [Additional Skills].
-
-### 👯 Collaboration
-I’m looking to collaborate on [Type of Projects or Topics]. Feel free to reach out if you have ideas or projects where we can work together!
-
-### 🤔 Help Needed
-I'm seeking help with [Specific Areas You Need Help With, e.g., debugging, advanced algorithms, etc.]. Any guidance or resources would be greatly appreciated!
-
-### 💬 Ask Me About
-- [Topic 1]
-- [Topic 2]
+- **Project 1:** Flow Brick - PMS(Project Management System)
+- **Project 2:** Sinhyang - ERP(Enterprise Resource Planning)
 
 ### 📫 Reach Me
-- Email: [Your Email Address]
+- Email: leejunho0722@naver.com
 - LinkedIn: [Your LinkedIn Profile]
 - Twitter: [Your Twitter Handle]
 
-### 😄 Pronouns
-- [Your Pronouns]
-
-### ⚡ Fun Fact
-Did you know that [Interesting Fact About You or Technology You Use]?
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="40%" />
-    </a>    
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%" />
-    </a>
-</div>
-
-
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+### ✨ Skill
+<div>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -95,15 +72,13 @@ Did you know that [Interesting Fact About You or Technology You Use]?
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
-<br>
 
-<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-JunhoLee&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="40%" />
+    </a>    
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="border: 2px solid #000000; border-radius: 5px; padding: 5px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Simon-JunhoLee&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%" />
+    </a>
 </div>
+
